@@ -8,14 +8,19 @@ If you think it is useful, All source code will be given once the license fee is
 
 Features:
 
-1. Single view controller
-2. Configurable and flexible forms and views
-3. Multiple authentications
-4. Detailed authorisation (Pending)
-5. Centralise security access management (Pending)
-6. Provide secure and comprehensive service (Pending)
-7. Application and Business behaviours (Pending)
-8. Easy set up Datasources everywhere
+1.  Single view controller
+2.  Configurable and flexible forms and views
+3.  Multiple authentications
+4.  Detailed authorisation (Pending)
+5.  Centralise security access management (Pending)
+6.  Provide secure and comprehensive service (Pending)
+7.  Application and Business behaviours (Pending)
+8.  Easy set up Datasources everywhere
+9.  Restrict management on updating (Pending)
+10. Rapid produce data viewing without coding changes 
+(one hour to a day maximum) (Pending)
+
+
 
 Set up:
 1. Download SOMS.zip
