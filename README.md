@@ -31,6 +31,7 @@ Contact:
 We only provide help once you have signed off a license agreement with us.
  
 contact@squaressolutions.com.au
+
 squares211@gamil.com
 
 Squares Solutions Company
