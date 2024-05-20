@@ -8,31 +8,30 @@ If you think it is useful, All source code will be given once the license fee is
 
 Features:
 
-Single view controller
-Configurable and flexible forms and views
-Multiple authentications
-Detailed authorisation (Pending)
-Centralise security access management (Pending)
-Provide secure and comprehensive service (Pending)
-Application and Business behaviours (Pending)
-Easy set up Datasources everywhere
+1. Single view controller
+2. Configurable and flexible forms and views
+3. Multiple authentications
+4. Detailed authorisation (Pending)
+5. Centralise security access management (Pending)
+6. Provide secure and comprehensive service (Pending)
+7. Application and Business behaviours (Pending)
+8. Easy set up Datasources everywhere
 
 Set up:
-Download SOMS.zip
-Unzip SOMS.zip
-Import Template folder via Gradle
-Clean Template  project
-Run Template project with profile setup
-Run Template project with profile dev
-Browser http://localhost:8080
-To use "user", "password" to login
+1. Download SOMS.zip
+2. Unzip SOMS.zip
+3. Import Template folder via Gradle
+4. Clean Template  project
+5. Run Template project with profile setup
+6. Run Template project with profile dev
+7. Browser http://localhost:8080
+8. To use "user", "password" to login in a development environment.
 
 Contact:
 We only provide help once you have signed off a license agreement with us.
  
 contact@squaressolutions.com.au
 squares211@gamil.com
-
 
 Squares Solutions Company
 Copyright ©2024
